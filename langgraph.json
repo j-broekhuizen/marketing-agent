@@ -1,0 +1,12 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "marketing-agent": {
+            "path": "./agent.py:graph",
+            "description": "Answers questions powered by marketing data"
+        }
+    },
+    "env": ".env"
+}
